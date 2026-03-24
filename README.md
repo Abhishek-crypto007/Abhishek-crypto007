@@ -90,14 +90,3 @@
 
 ---
 
-## 🐍 SYSTEM ACTIVITY
-
-<p align="center">
-  <img src="https://github.com/Abhishek-crypto007/Abhishek-crypto007/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
-</p>
