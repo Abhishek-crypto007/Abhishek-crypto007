@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Student;Future+Security+Engineer;Linux+Learner" />
 # 👋 Hey, I'm Abhishek
 
 💻 Cybersecurity Student
@@ -69,3 +70,4 @@
 ---
 
 ⭐ *"Stay consistent. Stay dangerous."*
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
