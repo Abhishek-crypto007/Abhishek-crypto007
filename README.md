@@ -1,74 +1,103 @@
-# 👋 Hey, I'm Abhishek
+<!-- HEADER -->
 
-💻 Cybersecurity Student
-🚀 Passionate about Tech, Ethical Hacking & Problem Solving
-🎯 On a mission to become a top-tier Security Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Initializing+Abhishek...;Cybersecurity+Student;Future+Security+Engineer;System+Status:+ONLINE" />
+</p>
 
----
-
-## 🧠 About Me
-<center> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Student;Future+Security+Engineer;Linux+Learner" /> </center>
-
-* 🎓 CSE (Cybersecurity) student
-* 🛠️ Learning C++, Linux, Networking & Security
-* 🔍 Curious about vulnerabilities, exploits & system internals
-* ⚡ Building projects & leveling up every day
+<h1 align="center">⚡ Abhishek ⚡</h1>
+<h3 align="center">💀 Cybersecurity | Ethical Hacking | Linux 💀</h3>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- MATRIX LINE -->
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-darkgreen)
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 SYSTEM INFO
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-crypto007\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-crypto007\&theme=tokyonight)
-
----
-
-## 🔥 Projects
-
-🔐 **Cybersecurity Toolkit**
-→ Collection of tools/scripts for learning security
-
-🌐 **Manga Website**
-→ Built using HTML, CSS, JS
-
-🧠 **Mini C++ Projects**
-→ Problem-solving & logic-building programs
+```bash
+> Name: Abhishek
+> Role: Cybersecurity Student
+> Focus: Ethical Hacking | Linux | Networking
+> Status: Learning | Building | Evolving
+```
 
 ---
 
-## 🎯 Current Focus
+## ⚙️ TECH ARSENAL
 
-* 🧪 Learning Ethical Hacking
-* 🐧 Mastering Linux
-* 💡 Building real-world projects
-* 📚 Strengthening core CS concepts
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,bash" />
 
-## 📫 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/abhishek-s-64265437a)
-[Email](mailto:abhi1508shek@gmail.com)
+</p>
 
 ---
 
-## 👀 Profile Views
+## 📊 SYSTEM ANALYTICS
 
-![Visitors](https://komarev.com/ghpvc/?username=Abhishek-crypto007\&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-crypto007&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-crypto007&theme=chartreuse-dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
-⭐ *"Stay consistent. Stay dangerous."*
+## 🚀 DEPLOYED PROJECTS
 
+```bash
+[1] Cybersecurity Toolkit
+    └── Security tools & scripts
+
+[2] Manga Website
+    └── Frontend project (HTML, CSS, JS)
+
+[3] C++ Problem Solver
+    └── Logic building & algorithms
+```
+
+---
+
+## 🎯 CURRENT MISSION
+
+```bash
+> Mastering Linux 🐧
+> Learning Ethical Hacking 🧪
+> Building real-world projects 💡
+> Improving problem solving 🧠
+```
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+  <a href="www.linkedin.com/in/abhishek-s-64265437a"><img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:abhi1508shek@gmail.com"><img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
+
+---
+
+## 🧬 VISITOR LOG
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-crypto007&color=00ff00&style=flat-square"/>
+</p>
+
+---
+
+## 🐍 SYSTEM ACTIVITY
+
+<p align="center">
+  <img src="https://github.com/Abhishek-crypto007/Abhishek-crypto007/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+</p>
