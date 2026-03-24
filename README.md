@@ -1,4 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Student;Future+Security+Engineer;Linux+Learner" />
 # 👋 Hey, I'm Abhishek
 
 💻 Cybersecurity Student
@@ -8,6 +7,7 @@
 ---
 
 ## 🧠 About Me
+<center><img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cybersecurity+Student;Future+Security+Engineer;Linux+Learner" /> </center>
 
 * 🎓 CSE (Cybersecurity) student
 * 🛠️ Learning C++, Linux, Networking & Security
